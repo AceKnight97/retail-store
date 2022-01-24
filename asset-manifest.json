@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/retail-store/static/css/main.031714d5.chunk.css",
+    "main.js": "/retail-store/static/js/main.e07e78af.chunk.js",
+    "main.js.map": "/retail-store/static/js/main.e07e78af.chunk.js.map",
+    "runtime-main.js": "/retail-store/static/js/runtime-main.03f97d0c.js",
+    "runtime-main.js.map": "/retail-store/static/js/runtime-main.03f97d0c.js.map",
+    "static/css/2.7393f959.chunk.css": "/retail-store/static/css/2.7393f959.chunk.css",
+    "static/js/2.51c4231e.chunk.js": "/retail-store/static/js/2.51c4231e.chunk.js",
+    "static/js/2.51c4231e.chunk.js.map": "/retail-store/static/js/2.51c4231e.chunk.js.map",
+    "static/js/3.5cea6644.chunk.js": "/retail-store/static/js/3.5cea6644.chunk.js",
+    "static/js/3.5cea6644.chunk.js.map": "/retail-store/static/js/3.5cea6644.chunk.js.map",
+    "index.html": "/retail-store/index.html",
+    "static/css/2.7393f959.chunk.css.map": "/retail-store/static/css/2.7393f959.chunk.css.map",
+    "static/css/main.031714d5.chunk.css.map": "/retail-store/static/css/main.031714d5.chunk.css.map",
+    "static/js/2.51c4231e.chunk.js.LICENSE.txt": "/retail-store/static/js/2.51c4231e.chunk.js.LICENSE.txt",
+    "static/media/1.fe851d35.webp": "/retail-store/static/media/1.fe851d35.webp",
+    "static/media/10.5776524e.jpg": "/retail-store/static/media/10.5776524e.jpg",
+    "static/media/11.8a03bd5f.png": "/retail-store/static/media/11.8a03bd5f.png",
+    "static/media/12.39c75e17.webp": "/retail-store/static/media/12.39c75e17.webp",
+    "static/media/13.1a5366d3.webp": "/retail-store/static/media/13.1a5366d3.webp",
+    "static/media/2.67fb4376.webp": "/retail-store/static/media/2.67fb4376.webp",
+    "static/media/3.142163b5.webp": "/retail-store/static/media/3.142163b5.webp",
+    "static/media/4.83aec052.webp": "/retail-store/static/media/4.83aec052.webp",
+    "static/media/5.ffc4faff.jpg": "/retail-store/static/media/5.ffc4faff.jpg",
+    "static/media/6.be6d90e9.jpg": "/retail-store/static/media/6.be6d90e9.jpg",
+    "static/media/7.2ee37428.webp": "/retail-store/static/media/7.2ee37428.webp",
+    "static/media/8.0607422c.jpg": "/retail-store/static/media/8.0607422c.jpg",
+    "static/media/9.99929b51.webp": "/retail-store/static/media/9.99929b51.webp",
+    "static/media/bosch-logo-new-flat.e412f7ba.png": "/retail-store/static/media/bosch-logo-new-flat.e412f7ba.png",
+    "static/media/_loading.scss": "/retail-store/static/media/loading.a3ffacb9.gif",
+    "static/media/star-inactive.7f719452.svg": "/retail-store/static/media/star-inactive.7f719452.svg",
+    "static/media/star.4cc7b7cd.svg": "/retail-store/static/media/star.4cc7b7cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f97d0c.js",
+    "static/css/2.7393f959.chunk.css",
+    "static/js/2.51c4231e.chunk.js",
+    "static/css/main.031714d5.chunk.css",
+    "static/js/main.e07e78af.chunk.js"
+  ]
+}
