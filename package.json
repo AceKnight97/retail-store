@@ -2,7 +2,7 @@
   "name": "retail-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aceknight97.github.io/retail-store/",
+  "homepage": "https://ace-retail-store.herokuapp.com/",
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
     "@testing-library/jest-dom": "^5.11.4",
