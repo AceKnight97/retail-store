@@ -32,7 +32,7 @@ const User = (props) => {
   const { email, username, phone, address, notes, role } = auth.getDataLogin();
 
   useEffect(() => {
-    if (!auth.getToken()) {
+    if (!auth.isSuccess()) {
       history.push("/retail-store");
       setState({});
       // console.log({ Nologin: props.login });
